@@ -9,10 +9,10 @@ _This website uses the © Copyright Ethos 2019 template design from [StyleShout]
 My website is broken into 5 main sections:
 
 1. [Hero](#Hero)
-2. About
-3. Skills
-4. Portfolio
-5. Contact
+2. [About](#About)
+3. [Skills](#Skills)
+4. [Portfolio](#Portfolio)
+5. [Contact](#Contact)
 
 ### Hero
 
